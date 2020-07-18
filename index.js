@@ -7,7 +7,7 @@ let formData = {
 // method: "POST" is missing from the object below
 function submitData(name, email) {
  
-    };
+    }
 
 
 
